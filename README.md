@@ -11,3 +11,4 @@ It does not store messages once refreshed.
 
 App has been deployed using Heroku.
 
+![screenshot](https://github.com/YathaarthSuri/Flask_Chatting_App/blob/master/screenshot.png)
