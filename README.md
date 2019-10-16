@@ -1,6 +1,8 @@
 # Flask_Chatting_App
 Chatting web app using Flask.
 
+You can open the app by clicking on this link: https://fast-fjord-27427.herokuapp.com/
+
 This has been created using HTML and JavaScript for front-end and Python for back-end.
 
 I have used Socket.io for this app.
